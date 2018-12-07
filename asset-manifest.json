@@ -1,13 +1,13 @@
 {
   "main.css": "/react-profile/static/css/main.c52d84e1.chunk.css",
-  "main.js": "/react-profile/static/js/main.e0e954e3.chunk.js",
-  "main.js.map": "/react-profile/static/js/main.e0e954e3.chunk.js.map",
+  "main.js": "/react-profile/static/js/main.72e0ebbb.chunk.js",
+  "main.js.map": "/react-profile/static/js/main.72e0ebbb.chunk.js.map",
   "static/js/1.6eb6405c.chunk.js": "/react-profile/static/js/1.6eb6405c.chunk.js",
   "static/js/1.6eb6405c.chunk.js.map": "/react-profile/static/js/1.6eb6405c.chunk.js.map",
   "runtime~main.js": "/react-profile/static/js/runtime~main.5b2c36fb.js",
   "runtime~main.js.map": "/react-profile/static/js/runtime~main.5b2c36fb.js.map",
   "static/css/main.c52d84e1.chunk.css.map": "/react-profile/static/css/main.c52d84e1.chunk.css.map",
   "index.html": "/react-profile/index.html",
-  "precache-manifest.f364bec7bda023e90793eb0bdbc041ec.js": "/react-profile/precache-manifest.f364bec7bda023e90793eb0bdbc041ec.js",
+  "precache-manifest.bf7a784641aa582867edc3335af3b5f8.js": "/react-profile/precache-manifest.bf7a784641aa582867edc3335af3b5f8.js",
   "service-worker.js": "/react-profile/service-worker.js"
 }
