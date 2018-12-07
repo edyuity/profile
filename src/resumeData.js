@@ -45,13 +45,6 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Meta",
-        "specialization":"Desenvolvedor Front-end",
-        "MonthOfLeaving":"Agosto",
-        "YearOfLeaving":"2018",
-        "Achievements":"HTML5, CSS3, SASS, Javascript, Git, VSTS and C#"
-      },
-      {
         "CompanyName":"Forlogic",
         "specialization":"Desenvolvedor Full Stack",
         "MonthOfLeaving":"Maio",
