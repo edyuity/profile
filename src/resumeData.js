@@ -29,7 +29,7 @@ let resumeData = {
         "specialization":"Análise e Desenvolvimento de Sistemas",
         "MonthOfPassing":"Março",
         "YearOfPassing":"2015",
-        "Achievements":"Cursando"
+        "Achievements":"Formado"
       },
     ],
     "lannguages":[
