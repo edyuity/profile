@@ -6,6 +6,6 @@ React Profile
 
 After the package dependencies installation use the command
 
-=> npm install
+=> npm start
 
 to start the project
